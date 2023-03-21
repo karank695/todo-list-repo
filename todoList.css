@@ -47,7 +47,7 @@ body {
     width: 500px;
     height: 400px;
     position: fixed;
-    top: 20%;
+    top: 23%;
     overflow: scroll;
 }
 
@@ -139,7 +139,7 @@ input[type=text]:focus {
     border-color: var(--list-pri);
 }
 input,input::placeholder{
-    font-size: 16px;
+    font-size: 13px;
 }
 
 #add-btn {
