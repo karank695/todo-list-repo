@@ -14,7 +14,7 @@ let myIIFE = (function () {
     input.setAttribute("placeholder", "Add someThing to your todo list");
     setTimeout(() => {
         input.removeAttribute("placeholder");
-    }, 7000)
+    }, 4000)
 
     function notify(msg) {
         alert(msg);
