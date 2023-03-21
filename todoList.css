@@ -23,7 +23,7 @@ body {
     display: flex;
     flex-direction: column;
     position: relative;
-    margin-top: 10px;
+    margin-top: 2px;
     box-shadow: 0 0 5px 10px white;
 }
 
@@ -53,7 +53,7 @@ body {
 
 @media (max-width:600px) {
     .list-container {
-        top: 20%;
+        top: 23%;
         width: 100%;
     }
 }
@@ -196,10 +196,6 @@ input,input::placeholder{
     padding-left: 5px;
     padding-right: 5px;
 
-}
-
-@keyframes move {
-    0% {}
 }
 
 #added {
