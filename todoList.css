@@ -51,7 +51,7 @@ body {
     overflow: scroll;
 }
 
-@media (max-width:600px) {
+@media (max-width:500px) {
     .list-container {
         top: 16%;
         width: 100%;
